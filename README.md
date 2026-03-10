@@ -574,7 +574,7 @@ PRIMARY KEY(id)
 
 Selanjutnya membuat konfigurasi untuk menghubungkan dengan database server.
 
-<img src="img/db.png" width="450">
+<img src="img/10. db.png" width="450">
 
 ### 12. Membuat Model
 Buat file baru pada direktori app/Models dengan nama `ArtikelModel.php`
