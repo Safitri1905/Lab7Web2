@@ -682,10 +682,10 @@ Buat view baru untuk halaman detail dengan nama app/views/artikel/`detail.php`
 <article class="entry"> 
     <h2><?= $artikel['judul']; ?></h2> 
     <img src="<?= base_url('/gambar/' . $artikel['gambar']);?>" alt="<?= $artikel['judul']; ?>"> 
-    <p><?= $row['isi']; ?></p> 
+    <p><?= $artikel['isi']; ?></p> 
 </article> 
 
-<?= $this->include('template/footer'); ?> 
+<?= $this->include('template/footer'); ?>  
 ```
 Lalu buka Kembali file app/config/Routes.php, kemudian tambahkan routing untuk artikel detail. 
 
