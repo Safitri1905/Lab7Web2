@@ -1226,7 +1226,6 @@ Buat folder `app/views/user/` lalu buat file `login.php`:
     <meta charset="UTF-8">
     <title>Login</title>
     <style>
-        /* CSS SAMA PERSIS DENGAN GAMBAR 13.1 MODUL */
         body {
             margin: 0;
             padding: 0;
