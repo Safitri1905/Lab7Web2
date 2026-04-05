@@ -973,7 +973,6 @@ Proses hapus artikel pertama:
 Setelah hapus artikel pertama:
 
 <img src="img/19. hapus2.png" width="450">
-<<<<<<< HEAD
 
 ---
 
