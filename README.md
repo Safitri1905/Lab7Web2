@@ -1103,11 +1103,9 @@ After
 Praktikum ini bertujuan untuk memahami konsep dasar Authentication (Auth) dan Filter pada framework CodeIgniter 4, serta membuat sistem login yang dapat melindungi halaman admin.
 
 ## Tujuan
-1. Mahasiswa mampu memahami konsep dasar Auth dan Filter.
-2. Mahasiswa mampu memahami konsep dasar Login System.
-3. Mahasiswa mampu membuat modul login menggunakan Framework CodeIgniter 4.
-
----
+1. Mampu memahami konsep dasar Auth dan Filter.
+2. Mampu memahami konsep dasar Login System.
+3. Mampu membuat modul login menggunakan Framework CodeIgniter 4.
 
 ## Langkah-langkah Praktikum
 
