@@ -1466,5 +1466,3 @@ Nama : Safitri Eka Ramadhani
 NIM : 312410431
 
 Kelas : I241C
-=======
->>>>>>> 588a1baa28234b48152f457276f193f23d0d1038
